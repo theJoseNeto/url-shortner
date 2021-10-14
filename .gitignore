@@ -1,0 +1,7 @@
+# packages
+node_modules
+# env
+.env
+# watch 
+dist/*
+
